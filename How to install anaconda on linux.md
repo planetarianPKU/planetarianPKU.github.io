@@ -10,7 +10,7 @@ Also remember to change to allow remote connections, so that you can use xshell 
 3. Enter the wget command to download in the terminal command line
 
 ```markdown
-?$ wget https://repo.continuum.io/archive/Anaconda3-5.2.0-Linux-x86_64.sh
+$ wget https://repo.continuum.io/archive/Anaconda3-5.2.0-Linux-x86_64.sh
 ```
 
 
@@ -29,7 +29,7 @@ $ bash Anaconda3-5.2.0-Linux-x86_64.sh
 8. If there is more "(base)" on the left side of the command line, and input:
 
 ```markdown
-conda list
+$ conda list
 ```
 
  it will appear something like that:
@@ -68,7 +68,7 @@ ca-certificates           2018.03.07                    0
 
 It means it's installed properly
 
-9.modify ~/.bashrc file
+9. modify ~/.bashrc file
 
 ```markdown
 $ vi ~/.bashrc
@@ -95,7 +95,7 @@ So how to build it?
 In the anaconda command line (that is, the command line with base on the left), enter:
 
 ```markdown
-$ conda create --name SUNNY?python=3
+$ conda create --name SUNNY python=3
 ```
 
 This command will create an environment called SUNNY and use python3.
@@ -105,7 +105,7 @@ Enter y to continue.
 After installation, enter
 
 ```markdown
-$?conda activate SUNNY
+$ conda activate SUNNY
 ```
 
 You will find that the text in the leftmost bracket of the command line will change from base to SUNNY, which reminds you that this is in SUNNY and not in the base environment.
@@ -140,7 +140,7 @@ If the path of anaconda disappears, it can be compiled.
 
 
 ```markdown
-$?conda install **(package name)
+$ conda install **(package name)
 ```
 
 What you need to tinker with yourself. Don't forget to create a new environment (after all, you can delete it if you break it).
@@ -149,13 +149,13 @@ What you need to tinker with yourself. Don't forget to create a new environment 
 
 13. Install jupyter notebook
 
-Enter in the environment created by yourself£º
+Enter in the environment created by yourself:
 
 ```markdown
-$?conda install -c conda-forge jupyterlab
+$ conda install -c conda-forge jupyterlab
 ```
 
-Enter y to confirm. I won¡¯t elaborate on how to use it. Anyway, it¡¯s very suitable for WSL, because you can directly copy the given URL to your browser and program directly in the browser instead of typing in the command line.
+Enter y to confirm. I won't elaborate on how to use it. Anyway, it's very suitable for WSL, because you can directly copy the given URL to your browser and program directly in the browser instead of typing in the command line.
 
 
 
