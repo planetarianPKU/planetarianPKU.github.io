@@ -7,34 +7,34 @@ vi startssh
 ```
 #write and quit:
 ```markdown
-**#!/bin/bash**
-**sudo service ssh --full-restart**
+#!/bin/bash
+sudo service ssh --full-restart
 ```
 #make the script into an executable file
 ```markdown
-**chmod +x startssh**
+chmod +x startssh
 ```
 2. use pwd to get the path
 ```markdown
-**pwd**
+pwd
 ```
 3. add the script PATH to ~/.bashrc
 #open the ~/.bashrc
 ```markdown
-**vi ~/.bashrc**
+vi ~/.bashrc
 ```
 #write and quit:
 ```markdown
-**#SSH**
-**export PATH=/home/xxx/usefulbash:$PATH**
+#SSH
+export PATH=/home/xxx/usefulbash:$PATH
 ```
 4. update ~/.bashrc
 #input the following command on the terminal.
 ```markdown
-**source ~/.bashrc**
+source ~/.bashrc
 ```
 5. Test
 Now You can run this script named startsshh in any directory,just type:
 ```markdown
-**startssh**
+startssh
 ```
