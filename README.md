@@ -8,13 +8,13 @@ Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://j
 
 Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
 
-[How to add script PATH to environment for linux](https://github.com/HDTTclear/HDTTclear.github.io/blob/master/how%20to%20add%20script%20PATH%20to%20environment%20for%20linux.md)
+[How to add script PATH to environment on Linux](https://github.com/HDTTclear/HDTTclear.github.io/blob/master/how%20to%20add%20script%20PATH%20to%20environment%20for%20linux.md)
 
-[How to convert PNM to GIF on linux](https://github.com/HDTTclear/HDTTclear.github.io/blob/master/How%20to%20convert%20PNM%20to%20GIF%20on%20linux.md)
+[How to convert PNM to GIF on Linux](https://github.com/HDTTclear/HDTTclear.github.io/blob/master/How%20to%20convert%20PNM%20to%20GIF%20on%20linux.md)
 
-[How to install anaconda on linux](https://github.com/HDTTclear/HDTTclear.github.io/blob/master/How%20to%20install%20anaconda%20on%20linux.md)
+[How to install anaconda on Linux](https://github.com/HDTTclear/HDTTclear.github.io/blob/master/How%20to%20install%20anaconda%20on%20linux.md)
 
-[How to use ssh to connect wsl](https://github.com/HDTTclear/HDTTclear.github.io/blob/master/How%20to%20use%20ssh%20to%20connect%20wsl%20.md)
+[How to use SSH to connect WSL](https://github.com/HDTTclear/HDTTclear.github.io/blob/master/How%20to%20use%20ssh%20to%20connect%20wsl%20.md)
 ```markdown
 Syntax highlighted code block
 
