@@ -12,6 +12,8 @@ Markdown is a lightweight and easy-to-use syntax for styling your writing. It in
 
 [How to convert PNM to GIF on linux](https://github.com/HDTTclear/HDTTclear.github.io/blob/master/How%20to%20convert%20PNM%20to%20GIF%20on%20linux.md)
 
+[How to install anaconda on linux](https://github.com/HDTTclear/HDTTclear.github.io/blob/master/How%20to%20install%20anaconda%20on%20linux.md)
+
 ```markdown
 Syntax highlighted code block
 
