@@ -32,11 +32,38 @@ $ bash Anaconda3-5.2.0-Linux-x86_64.sh
 conda list
 ```
 
- it will appear:
+ it will appear something like that:
 
 ```markdown
-# packages in environment at /home/*/anaconda3:
-……
+# packages in environment at /home/sun/anaconda3:
+#
+# Name                    Version                   Build  Channel
+_ipyw_jlab_nb_ext_conf    0.1.0            py36he11e457_0  
+alabaster                 0.7.10           py36h306e16b_0  
+anaconda                  5.2.0                    py36_3  
+anaconda-client           1.6.14                   py36_0  
+anaconda-navigator        1.8.7                    py36_0  
+anaconda-project          0.8.2            py36h44fb852_0  
+asn1crypto                0.24.0                   py36_0  
+astroid                   1.6.3                    py36_0  
+astropy                   3.0.2            py36h3010b51_1  
+attrs                     18.1.0                   py36_0  
+babel                     2.5.3                    py36_0  
+backcall                  0.1.0                    py36_0  
+backports                 1.0              py36hfa02d7e_1  
+backports.shutil_get_terminal_size 1.0.0            py36hfea85ff_2  
+beautifulsoup4            4.6.0            py36h49b8c8c_1  
+bitarray                  0.8.1            py36h14c3975_1  
+bkcharts                  0.2              py36h735825a_0  
+blas                      1.0                         mkl  
+blaze                     0.11.3           py36h4e06776_0  
+bleach                    2.1.3                    py36_0  
+blosc                     1.14.3               hdbcaa40_0  
+bokeh                     0.12.16                  py36_0  
+boto                      2.48.0           py36h6e4cd66_1  
+bottleneck                1.2.1            py36haac1ea0_0  
+bzip2                     1.0.6                h14c3975_5  
+ca-certificates           2018.03.07                    0  
 ```
 
 It means it's installed properly
@@ -57,7 +84,7 @@ conda activate
 (Change xxx in the above command to the path where you installed anaconda yourself)
 
 
-10.建立环境。
+10.Build environment
 
 The base is the basic environment, but we must not do things directly on the base, because you will find that the versions of many packages are incompatible, such as the different writing methods of numpy high and low versions. If you encounter this kind of problem, you will not only have to reinstall, but also experience a period of crash.
 
