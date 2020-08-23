@@ -71,7 +71,7 @@ It means it's installed properly
 9.modify ~/.bashrc file
 
 ```markdown
-$?vi ~/.bashrc
+$ vi ~/.bashrc
 ```
 
 Add the following two commands:
@@ -95,7 +95,7 @@ So how to build it?
 In the anaconda command line (that is, the command line with base on the left), enter:
 
 ```markdown
-?$ conda create --name SUNNY?python=3
+$ conda create --name SUNNY?python=3
 ```
 
 This command will create an environment called SUNNY and use python3.
@@ -105,7 +105,7 @@ Enter y to continue.
 After installation, enter
 
 ```markdown
-?$?conda activate?SUNNY?
+$?conda activate SUNNY
 ```
 
 You will find that the text in the leftmost bracket of the command line will change from base to SUNNY, which reminds you that this is in SUNNY and not in the base environment.
@@ -133,7 +133,6 @@ $ echo $PATH
 ```
 
 If the path of anaconda disappears, it can be compiled.
-
 
 
 12. Install packages
