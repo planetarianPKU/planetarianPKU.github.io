@@ -1,4 +1,4 @@
 ```markdown
 sudo apt-get install imagemagick
-mogrify  -format gif*.pnm
+mogrify  -format gif *.pnm
 ```
