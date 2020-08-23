@@ -1,3 +1,5 @@
+
+```markdown
 1. make an scrpit
 for example we make a stript to start ssh service.
 #open the script
@@ -26,3 +28,4 @@ vi startssh
 Now You can run this script named startsshh in any directory,just type:
 **startssh**
 
+```
