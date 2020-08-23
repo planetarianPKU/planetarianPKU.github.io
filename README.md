@@ -14,6 +14,7 @@ Markdown is a lightweight and easy-to-use syntax for styling your writing. It in
 
 [How to install anaconda on linux](https://github.com/HDTTclear/HDTTclear.github.io/blob/master/How%20to%20install%20anaconda%20on%20linux.md)
 
+[How to use ssh to connect wsl](https://github.com/HDTTclear/HDTTclear.github.io/blob/master/How%20to%20use%20ssh%20to%20connect%20wsl%20.md)
 ```markdown
 Syntax highlighted code block
 
