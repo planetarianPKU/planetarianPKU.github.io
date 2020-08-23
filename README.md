@@ -28,7 +28,7 @@ Syntax highlighted code block
 [Link](url) and ![Image](src)
 ```
 
-For more details see [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/).
+For more details see [GitHub Flavored Markdown](https://github.com/HDTTclear/HDTTclear.github.io/blob/master/how%20to%20add%20script%20PATH%20to%20environment%20for%20linux.md).
 
 ### Jekyll Themes
 
