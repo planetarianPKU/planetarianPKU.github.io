@@ -35,23 +35,27 @@ type:
 #!/bin/bash
 sudo service ssh --full-restart
 ```
+
 Write and quit,and on the terminal,type:
 
 ```markdown
 chmod +x startssh
 ```
+
 The file then become a executable file.
 
 And then,open:
+
 ```markdown
 vi ~/.bashrc
-```markdown
-
+```
 type:
+
 ```markdown
 #SSH
 export PATH=/home/xxx/usefulbash:$PATH
-```markdown
+
+```
 
 write and quit,and type on the terminal:
 
@@ -61,8 +65,3 @@ source ~/.bashrc
 
 Now, you can run the script under any dictionary.
 
-```markdown
-https://gist.github.com/kauffmanes/5e74916617f9993bc3479f401dfec7da
-
-https://zhuanlan.zhihu.com/p/95497832
-```
