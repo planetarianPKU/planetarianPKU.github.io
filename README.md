@@ -8,8 +8,7 @@ Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://j
 
 Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
 
-[How to add script PATH to environment for linux](https://github.com/HDTTclear/HDTTclear.github.io/blob/master/How%20to%20add%20script%20PATH%20to%20environment%20for%20linux)
-
+[How to add script PATH to environment for linux](https://github.com/HDTTclear/HDTTclear.github.io/blob/master/how%20to%20add%20script%20PATH%20to%20environment%20for%20linux.md)
 ```markdown
 Syntax highlighted code block
 
@@ -28,7 +27,7 @@ Syntax highlighted code block
 [Link](url) and ![Image](src)
 ```
 
-For more details see [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/).
+For more details see [GitHub Flavored Markdown](https://github.com/HDTTclear/HDTTclear.github.io/blob/master/how%20to%20add%20script%20PATH%20to%20environment%20for%20linux.md).
 
 ### Jekyll Themes
 
